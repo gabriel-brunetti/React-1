@@ -1,0 +1,23 @@
+.zerar, .adicionar, .diminuir {
+  border: 1px solid #000000;
+  border-radius: 15px;
+  margin-right: 10px;
+}
+
+.zerar {
+  background-color: #cccccc;
+  font-weight: 600;
+  padding: 5px;
+}
+
+.adicionar {
+  background-color: #4fc74f;
+  font-weight: 600;
+  padding: 5px;
+}
+
+.diminuir {
+  background-color: rgba(187, 15, 15, 0.973);
+  font-weight: 600;
+  padding: 5px;
+}
